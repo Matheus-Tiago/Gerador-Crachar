@@ -8,14 +8,16 @@ O projeto se constitui em um criador de crachá, com logo, foto do colaborar e f
 ![gerador-crachá-fork-desktop](https://github.com/Clarc-Vasconcelos/Gerador-de-ID-/assets/129234188/9a4ae92b-6217-475a-97ab-1026a42f7acb)
 
 <br />
+
 ![gerador-crachá-fork-tablet](https://github.com/Clarc-Vasconcelos/Gerador-de-ID-/assets/129234188/b6603e73-a671-4da5-a2d4-cbd9a8bd9e05)
 
 <br />
+
 ![gerador-crachá-fork-mobile](https://github.com/Clarc-Vasconcelos/Gerador-de-ID-/assets/129234188/3387c80f-bccb-4e92-be8b-0e3dd46896a1)
 
 <br />
 
-<p>Para visualizar a página em ação, acesse este <a href='xxxxxx' target='_blank'>link</a>.</p>
+<p>Para visualizar a página em ação, acesse este <a href='https://gerador-crach.vercel.app/' target='_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
