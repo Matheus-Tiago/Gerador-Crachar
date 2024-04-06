@@ -1,39 +1,40 @@
-body {
-  margin: 0;
-  width: 100wh;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 .ladoDireito {
   display: flex;
   flex-direction: column;
 }
 
 main {
-  display: flex;
-  flex-direction: row;
-  padding: 10px;
-  width: 100vh;
-  justify-content: center;
-  margin: auto;
+  background-image: linear-gradient(to top right, rgb(59, 59, 59), rgb(0, 0, 0), rgb(59, 59, 59) );
+  border: solid 5px rgba(3, 245, 84, 0);
+  padding: 0.75rem;
+  width: 96%;
+  height: 96%;
+
 }
-label {
-  width: 180px;
+
+section label {
+  width: 11.25rem;
   text-align: right;
   display: block;
   float: left;
   
 }
+
 .itemForm {
-  width: 400px;
+  width: 25rem;
   padding-bottom: 5px;
 }
+
+.ladoDireito {
+  border-radius: 10px;
+}
+
+p {
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #000;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -125,10 +126,10 @@ code {
   transform: translateY(-50%);
   border-radius: 10px;
 }
-.quadroNF p{
+.quadroNF .textFrontCard{
+  text-shadow: -1px -1px 0 #fcf9f9, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+  color: rgb(0, 8, 15);
   line-height: 100%;
-  margin: 0%;
-  padding: 0%;
   font-size: x-large;
 }
 .pMaior{
